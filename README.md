@@ -5,7 +5,7 @@
 ## I'm a Husband, Father to a dog, Networking Admin, and Developer!!
 
 - 🌱 I’m currently learning every single thing there is to learn 🤣
-- 👯 I’m looking to collaborate with people that do server managment and python aplications
+- 👯 I’m looking to collaborate with people that do server managment and python applications
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Skateboard and play video games!
 
