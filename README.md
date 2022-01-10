@@ -1,6 +1,6 @@
-### Hi there, I'm Noah - aka [noahweeks1111][website] 👋 
+### Hi there, I'm Noah - aka [noahweeks1111] 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/noahweeks11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=noahweeks11)
 
 ## I'm a Husband, Father to a dog, Networking Admin, and Developer!!
 
