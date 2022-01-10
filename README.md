@@ -40,16 +40,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahweeks1111)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/noahweeks11
