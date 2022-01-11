@@ -1,4 +1,4 @@
-### Hi there, I'm Noah - aka [noahweeks1111] 👋 
+### Hi there, I'm Noah - aka [MrPandaCoding] 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/noahweeks11?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=noahweeks11)
 
@@ -32,7 +32,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahweeks1111)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPandaCoding)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/noahweeks11
 [instagram]: https://instagram.com/lord.noah.weeks
